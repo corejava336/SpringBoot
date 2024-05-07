@@ -14,14 +14,14 @@ mvn spring-boot:run
 
 ## Usage
 
-Once the application is running, you can access it at [http://localhost:8080](http://localhost:8080). The following endpoints are available:
+Once the application is running, you can access it at [http://localhost:8080](http://localhost:8080). The following endpoints are examples just check the code and use them:
 
 - `/api/users`: Retrieves a list of users.
 - `/api/products`: Retrieves a list of products.
 
 ## Configuration
 
-This project uses an embedded H2 database by default. You can configure the database connection properties in the `application.properties` file. Additionally, API endpoints and other settings can also be configured in this file.
+This project uses an embedded MySql database by default. You can configure the database connection properties in the `application.properties` file. Additionally, API endpoints and other settings can also be configured in this file.
 
 ## Contributing
 
