@@ -1,4 +1,4 @@
-# My Awesome Spring Boot Projects=
+# My Awesome Spring Boot Projects
 
 Welcome to My Awesome Spring Boot Projects! These projects is a demonstration of a  Spring Boot applications.
 
